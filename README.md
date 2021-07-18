@@ -1,2 +1,2 @@
-# belalojaoficial
-The Bela Loja Store Oficial. 
+# Bela Loja Oficial
+Bem-vindo(a) ao site belaloja.
